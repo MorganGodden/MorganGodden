@@ -1,7 +1,7 @@
 ### :hammer: Currently working on -
 - A **Flutter** mobile app centered around general wellbeing (for [Staywell Derby CIC](https://staywellderby.org.uk)).  
 - Webserver and database (for [Staywell Derby CIC](https://staywellderby.org.uk)).
-- Personal Webite ([godden.dev](https://godden.dev/))  
+- Personal Website ([godden.dev](https://godden.dev/))  
 
 ---
   
