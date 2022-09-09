@@ -1,10 +1,3 @@
-### :hammer: Currently working on -
-- A **Flutter** mobile app centered around general wellbeing (for [Staywell Derby CIC](https://staywellderby.org.uk)).  
-- Webserver and database (for [Staywell Derby CIC](https://staywellderby.org.uk)).
-- Personal Website ([godden.dev](https://godden.dev/))  
-
----
-  
 <div align="center">
   
   | :e-mail: **_Contact_**: Morgan.Godden@outlook.com  |
